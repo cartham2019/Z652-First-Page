@@ -9,3 +9,8 @@
 ```
 Project Overview
 ```
+* Compile Mendelssohn correspondence in one location.
+* Reveal important themes in correspondence.
+* Provide for searching by date, theme, keyword.
+* Where possible, provide digitized copy in addition to transcription.
+* Provide original language and translation.
